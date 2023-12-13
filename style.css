@@ -1,0 +1,13 @@
+
+
+#map { 
+  height: 80vh;
+  width: auto;
+
+}
+
+.card{
+  display: flex;
+  flex-direction: row;
+}
+
